@@ -9,6 +9,9 @@ June 2019
 */
 
 #pragma once
+
+#include <Windows.h>
+
 #define ASPECT_RATIO_X	2
 #define ASPECT_RATIO_Y	2
 #define TOP_EDGE		10 * ASPECT_RATIO_Y
